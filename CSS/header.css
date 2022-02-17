@@ -2,6 +2,11 @@
   margin: 0;
 }
 
+.ga-cabecalho{
+  background-color: rgb(18, 20, 41);
+  border: inset 2px rgb(40, 121, 168);
+}
+
 .ga-nav {
   display: flex;
   flex-direction: row;
@@ -9,8 +14,16 @@
   align-items: center;
   gap: 850px;
   background-color: rgb(18, 20, 41);
-  border: inset 2px rgb(40, 121, 168);
   padding: 25px 25px;
+}
+
+.ga-cabecalho > .ga-grid{
+    display: flex;
+    flex-direction: row;
+
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .ga-name {
