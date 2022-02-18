@@ -1,3 +1,22 @@
+.ga-main > .ga-main-grid {
+    display: flex;
+    flex-direction: column;
+  
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+.ga-gustavo-img{
+    display: flex;
+    flex-direction: column;    
+
+    box-shadow: 10px 10px 8px #73a9f0;
+    height:15%;
+    width: 15%;
+    border: dashed 1.3px rgb(17, 32, 121);
+}
+
 .ga-info{
     display: flex;
     flex-direction: column;
@@ -7,6 +26,7 @@
     padding-top: 18px;
     gap: 20px;
     background-color: rgb(198, 212, 241);
+    padding-bottom: 30px;
 }
 
 .ga-rua{
