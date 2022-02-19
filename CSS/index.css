@@ -44,3 +44,13 @@
     width: 1.6%;
     height: 1.6%;
 }
+
+.ga-navmain-2{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding-left: 45px;
+
+    background-color: rgb(175, 196, 236);
+    font-size: 1.3em;
+}
