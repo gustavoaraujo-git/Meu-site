@@ -54,3 +54,22 @@
     background-color: rgb(175, 196, 236);
     font-size: 1.3em;
 }
+
+.ga-section2{
+    display: flex;
+    flex-direction: column;
+}
+
+.ga-div-info{
+    padding: 70px;
+    background: url(https://media-exp1.licdn.com/dms/image/C4D16AQHfO-PXbF0QyA/profile-displaybackgroundimage-shrink_200_800/0/1530069550812?e=1647475200&v=beta&t=8oB14o5AILQz_0X651iejkgVRVJQPvAYCjlgXWatNiA);
+    border: solid 0.4px rgb(47, 119, 167);
+    height: 70%;
+}
+
+.ga-info2{
+    color: #fff;
+    background: none;
+    font-size: 1.2em;
+    font-family:  'Times New Roman', Times, serif ;
+}
