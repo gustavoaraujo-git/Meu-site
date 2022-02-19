@@ -1,75 +1,75 @@
 .ga-main > .ga-main-grid {
-    display: flex;
-    flex-direction: column;
-  
-    max-width: 1500px;
-    width: 100%;
-    margin: 0 auto;
-  }
+  display: flex;
+  flex-direction: column;
 
-.ga-gustavo-img{
-    display: flex;
-    flex-direction: column;    
-
-    box-shadow: 10px 10px 8px #73a9f0;
-    height:15%;
-    width: 15%;
-    border: dashed 1.3px rgb(17, 32, 121);
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
 }
 
-.ga-info{
-    display: flex;
-    flex-direction: column;
+.ga-gustavo-img {
+  display: flex;
+  flex-direction: column;
 
-    list-style: none;
-    font-size: 1.5em;
-    padding-top: 18px;
-    gap: 20px;
-    background-color: rgb(198, 212, 241);
-    padding-bottom: 30px;
+  box-shadow: 10px 10px 8px #73a9f0;
+  height: 15%;
+  width: 15%;
+  border: dashed 1.3px rgb(17, 32, 121);
 }
 
-.ga-rua{
-    display: flex;
-    align-items: center;
+.ga-info {
+  display: flex;
+  flex-direction: column;
+
+  list-style: none;
+  font-size: 1.5em;
+  padding-top: 18px;
+  gap: 20px;
+  background-color: rgb(198, 212, 241);
+  padding-bottom: 30px;
 }
 
-.ga-rua a{
-    text-decoration: none;
-    color: black;
+.ga-rua {
+  display: flex;
+  align-items: center;
 }
 
-.ga-logo-maps{
-    padding: 1px 10px;
-    width: 1.6%;
-    height: 1.6%;
+.ga-rua a {
+  text-decoration: none;
+  color: black;
 }
 
-.ga-navmain-2{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    padding-left: 45px;
-
-    background-color: rgb(175, 196, 236);
-    font-size: 1.3em;
+.ga-logo-maps {
+  padding: 1px 10px;
+  width: 1.6%;
+  height: 1.6%;
 }
 
-.ga-section2{
-    display: flex;
-    flex-direction: column;
+.ga-navmain-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px 45px;
+
+  background-color: rgb(175, 196, 236);
+  font-size: 1.3em;
 }
 
-.ga-div-info{
-    padding: 70px;
-    background: url(https://media-exp1.licdn.com/dms/image/C4D16AQHfO-PXbF0QyA/profile-displaybackgroundimage-shrink_200_800/0/1530069550812?e=1647475200&v=beta&t=8oB14o5AILQz_0X651iejkgVRVJQPvAYCjlgXWatNiA);
-    border: solid 0.4px rgb(47, 119, 167);
-    height: 70%;
+.ga-section2 {
+  display: flex;
+  flex-direction: column;
 }
 
-.ga-info2{
-    color: #fff;
-    background: none;
-    font-size: 1.2em;
-    font-family:  'Times New Roman', Times, serif ;
+.ga-div-info {
+  padding: 70px;
+  background: url(https://media-exp1.licdn.com/dms/image/C4D16AQHfO-PXbF0QyA/profile-displaybackgroundimage-shrink_200_800/0/1530069550812?e=1647475200&v=beta&t=8oB14o5AILQz_0X651iejkgVRVJQPvAYCjlgXWatNiA);
+  border: solid 0.4px rgb(47, 119, 167);
+  height: 70%;
+}
+
+.ga-info2 {
+  color: #fff;
+  background: none;
+  font-size: 1.2em;
+  font-family: "Times New Roman", Times, serif;
 }

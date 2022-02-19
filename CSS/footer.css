@@ -1,0 +1,19 @@
+.ga-footer > .ga-footer-info {
+    display: flex;
+    flex-direction: row;
+  
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+.ga-footer{
+    display: flex;
+    flex-direction: column;
+    padding: 15px 40px;   
+    
+    background-color: darkblue;
+    color: rgb(181, 223, 217);
+    font-size: 1.1em;
+    border: solid 0.2px rgb(107, 154, 161);
+}
